@@ -1,10 +1,12 @@
-1. HTML / Javascript
-   Later on, we will use Nextjs / Reactjs to build a static site.
+-   #### HTML / Javascript
 
--   live Server 插件
-    go live -- 快速生成本地页面
+    Later on, we will use Nextjs / Reactjs to build a static site.
 
-*   #### 前后端代码分离
+-   #### live Server 插件
+
+​ go live -- 快速生成本地页面
+
+-   #### 前后端代码分离
 
     -   项目启动时，要保证本地 node 是运行中
 
